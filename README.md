@@ -135,5 +135,3 @@ You can also register new Buyer or Seller accounts from the main menu.
 - The auction timer is based on the system clock — if you set a 1-minute auction, it genuinely expires in 60 seconds
 
 ---
-
-*Built as a Java OOP learning project. Feel free to fork, extend, or break it.*
